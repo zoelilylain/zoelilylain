@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoelilylain
-- 👀 I’m interested in embedded systems and modding game consoles
-- I write homebrew for consoles like the Nintendo GBA
+- 👀 I’m interested in embedded systems, web development, and writing applications for feature phones
+- I write homebrew and webapps
 
 <!---
 zoelilylain/zoelilylain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
