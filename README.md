@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zoelilylain
-- 👀 I’m interested in embedded systems, web development, and writing applications for feature phones
-- I write homebrew and webapps
+- 👀 I’m interested in retrocomputing and console homebrew, as well as emulator development
 
 <!---
 zoelilylain/zoelilylain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
